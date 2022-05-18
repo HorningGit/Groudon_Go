@@ -8,11 +8,16 @@
 
 ### Cheat Sheet
 
-* Run your program:
-
+###### Run your program:
 ```
 go run <file path>
 ```
+
+###### Open Documentation using doc
+```
+go doc <package>
+```
+
 * Create a new module:
 
 ```
