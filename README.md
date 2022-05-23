@@ -8,7 +8,7 @@
 
 ### Cheat Sheet
 
-###### Run your program:
+##### Run your program:
 ```
 go run <file path>
 ```
