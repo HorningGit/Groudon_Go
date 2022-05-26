@@ -8,17 +8,21 @@
 
 ### Cheat Sheet
 
-##### Run your program:
+- Compile and Run your Go program:
 ```
 go run <file path>
 ```
 
-###### Open Package Documentation using doc command:
+- Open Package Documentation using doc command:
 ```
 go doc <package>
 ```
+- Compile your Go package:
 
-* Create a new module:
+```
+go build <package path>
+```
+-  Create a new module:
 
 ```
 go mod init <module path>
