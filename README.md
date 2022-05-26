@@ -13,7 +13,7 @@
 go run <file path>
 ```
 
-###### Open Documentation using doc
+###### Open Package Documentation using doc command:
 ```
 go doc <package>
 ```
