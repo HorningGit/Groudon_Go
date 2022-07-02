@@ -7,31 +7,21 @@
 - [Golang | Examples of Go Programs/Scripts](https://golangexample.com/)
 
 ### Cheat Sheet
-
+```
 - Compile and Run your Go program:
-```
-go run <file path>
-```
+    go run <file path>
 
 - Open Package Documentation using doc command:
-```
-go doc <package>
-```
+    go doc <package>
+
 - Compile your Go package:
+    go build <package path>
 
-```
-go build <package path>
-```
 -  Create a new module:
-
-```
-go mod init <module path>
-```
+    go mod init <module path>
 
 * Compile your app package:
-
-```
-go build <package path>
+    go build <package path>
 ```
 
 * Install and run from a remote location:
