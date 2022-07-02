@@ -40,6 +40,7 @@ bin/myApp
 %T  	a Go-syntax representation of the type of the value
 %%	a literal percent sign; consumes no value
 
+[SPRINT]
 - func Sprint(a ...any) string
 	Sprintf formats according to a format specifier and returns the resulting string.
 ```
