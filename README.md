@@ -42,8 +42,6 @@ bin/myApp
 
 - func Sprint(a ...any) string
 	Sprintf formats according to a format specifier and returns the resulting string.
-
-
 ```
 
 ###### Basic Numberic Types in Go
