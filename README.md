@@ -1,12 +1,12 @@
 # Groudon_Go
 
-## Golang (Go) Resources
+### 🔵 Golang (Go) Resources
 - [Golang | Home Page](https://go.dev/)
 - [Golang | Documentation](https://go.dev/doc/)
 - [Golang | GitHub](https://github.com/golang)
 - [Golang | Examples of Go Programs/Scripts](https://golangexample.com/)
 
-### Cheat Sheet
+### 🔵 Basic Admin Commands
 ```
 - Compile and Run your Go program:
     go run <file path>
@@ -20,7 +20,7 @@
 -  Create a new module:
     go mod init <module path>
 
-* Compile your app package:
+- Compile your app package:
     go build <package path>
 ```
 
@@ -29,6 +29,18 @@
 ```
 go install github.com/bregman-arie/myApp
 bin/myApp
+```
+
+### FMT Cheat Sheet
+```
+[PRINT]
+%v	the value in a default format
+	when printing structs, the plus flag (%+v) adds field names
+    
+%#v a Go-syntax representation of the value
+%T  a Go-syntax representation of the type of the value
+    
+%%	a literal percent sign; consumes no value
 ```
 
 ###### Basic Numberic Types in Go
