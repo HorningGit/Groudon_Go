@@ -1,4 +1,4 @@
-# Groudon_Go
+# :whale: Groudon_Go :whale2:
 
 ### 🔵 Golang (Go) Resources
 - [Golang | Home Page](https://go.dev/)
