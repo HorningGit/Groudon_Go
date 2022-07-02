@@ -31,7 +31,7 @@ go install github.com/bregman-arie/myApp
 bin/myApp
 ```
 
-### FMT Cheat Sheet
+### 🔵 FMT Cheat Sheet
 ```
 [PRINT]
 %v	the value in a default format
