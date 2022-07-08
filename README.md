@@ -1,4 +1,4 @@
-# :whale: Groudon Go :whale2:
+# :whale: Gyarados Go :whale2:
 ##### 🔵 Basic Admin Commands
 ```
 - Compile and Run your Go program:
