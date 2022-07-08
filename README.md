@@ -1,12 +1,5 @@
 # :whale: Groudon_Go :whale2:
-
-### 🔵 Golang (Go) Resources
-- [Golang | Home Page](https://go.dev/)
-- [Golang | Documentation](https://go.dev/doc/)
-- [Golang | GitHub](https://github.com/golang)
-- [Golang | Examples of Go Programs/Scripts](https://golangexample.com/)
-
-### 🔵 Basic Admin Commands
+##### 🔵 Basic Admin Commands
 ```
 - Compile and Run your Go program:
     go run <file path>
