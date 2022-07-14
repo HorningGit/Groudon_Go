@@ -21,7 +21,12 @@ $ wget https://go.dev.dl/go1.18.4.linux-amd64.tar.gz
 $ echo 'export PATH=$PATH:/usr/local/go/bin' >> $HOME/.profile
 $ source $HOME/.profile
 ```
-
+<ins>Define the $GOPATH environment variable to make it clear where our Go workspace will be!</ins>
+1. Add the following lines to the _.profile_ file with the [**export**](https://www.man7.org/linux/man-pages/man1/export.1p.html) command:
+```
+$ export GOPATH=$HOME/go
+$ export PATH=$PATH:$GOPATH/bin
+```
 
 
 
