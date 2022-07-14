@@ -16,6 +16,11 @@ $ cd ~
 ```
 $ wget https://go.dev.dl/go1.18.4.linux-amd64.tar.gz
 ```
+3. Add Go to $PATH so that the **go** command is accessible:
+```
+$ echo 'export PATH=$PATH:/usr/local/go/bin' >> $HOME/.profile
+$ source $HOME/.profile
+```
 
 
 
