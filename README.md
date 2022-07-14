@@ -1,4 +1,38 @@
 # :whale: Gyarados Golang :whale2:
+
+
+
+
+
+
+<!--Linux/BSD_Install-->
+##### 🔵 Installing Go on RHEL Based Systems
+To setup the Go environment through the Linux command line, please proceed with the following steps!
+1. Assuming the Linux system is up-to-date, [**cd**](https://man7.org/linux/man-pages/man1/cd.1p.html) into the Linux system's current home directory:
+```
+$ cd ~
+```
+2. Use the [**wget**](https://man7.org/linux/man-pages/man1/wget.1.html) command to install the tar archive from the official Go downloads page:
+```
+$ wget https://go.dev.dl/go1.18.4.linux-amd64.tar.gz
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##### 🔵 Basic Admin Commands
 ```
 - Compile and Run your Go program:
