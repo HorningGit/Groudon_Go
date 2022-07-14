@@ -27,7 +27,10 @@ $ source $HOME/.profile
 $ export GOPATH=$HOME/go
 $ export PATH=$PATH:$GOPATH/bin
 ```
-
+2. Use the [**source**]() command to make the changes immediate to the current shell:
+```
+$ source $HOME/.profile
+```
 
 
 
