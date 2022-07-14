@@ -6,7 +6,7 @@
 
 
 <!--Linux/BSD_Install-->
-##### 🔵 Installing Go on RHEL Based Systems
+#### 🔵 Installing Go on RHEL Based Systems
 To setup the Go environment through the Linux command line, please proceed with the following steps!
 1. Assuming the Linux system is up-to-date, [**cd**](https://man7.org/linux/man-pages/man1/cd.1p.html) into the Linux system's current home directory:
 ```
@@ -38,7 +38,7 @@ $ source $HOME/.profile
 
 
 
-##### 🔵 Basic Admin Commands
+#### 🔵 Basic Admin Commands
 ```
 - Compile and Run your Go program:
     go run <file path>
