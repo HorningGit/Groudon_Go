@@ -81,12 +81,6 @@ bin/myApp
 %%	a literal percent sign; consumes no value
 ```
 
-##### SPRINT
-```
-- func Sprint(a ...any) string
-	Sprintf formats according to a format specifier and returns the resulting string.
-```
-
 ###### Basic Numberic Types in Go
 Data Type | Memory Usage - Number of Bits | Minimum Value | Maximum Value
 :------|:------:|:------:|:------:
@@ -138,6 +132,7 @@ ___
   <!-- Default Shell EV -->
 #### :small_blue_diamond: Changing Default Shell Prompt
 ```
+
 [PS1 Environment Variable]
 - PS1 is a primary prompt variable which holds @\u@\h \W\\$ special bash characters. 
 - Display during terminal login.
